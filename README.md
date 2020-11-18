@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # terraform-iaac-august-2020
 ###  This module is used to create ASG +  ELB. 
 ####  Please Use below code to create ASG
@@ -12,3 +13,6 @@ module "webapp" {
   image_owner      = "137112412989"
   instance_type    = "c5.large"
 }
+=======
+# terraform-aws-asg
+>>>>>>> 61b23140f02cec494efa83ce3b9f070eba81f7ae
