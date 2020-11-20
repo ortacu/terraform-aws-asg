@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# terraform-iaac-august-2020
+# terraform-iaac-august-2020-aws-asg
 ###  This module is used to create ASG +  ELB. 
 ####  Please Use below code to create ASG
 
