@@ -5,7 +5,7 @@
 
 ```
 module "webapp" {
-  source           = "../class4"
+  source           = "ortacu/asg/aws"
   region           = "us-east-1"
   max_size         = "1"
   min_size         = "1"
