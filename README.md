@@ -10,9 +10,9 @@ module "webapp" {
   max_size         = "1"
   min_size         = "1"
   desired_capacity = "1"
-  image_owner      = "137112412989"
+  image_owner      = "xxxxx"
   instance_type    = "c5.large"
 }
 =======
 # terraform-aws-asg
->>>>>>> 61b23140f02cec494efa83ce3b9f070eba81f7ae
+>>>>>>> 
